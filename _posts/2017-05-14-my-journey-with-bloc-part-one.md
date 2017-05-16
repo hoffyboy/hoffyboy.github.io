@@ -18,5 +18,3 @@ When I was done learning AngularJS, it was on to the projects. For my first proj
 
 {:.center}
 ![]({{ site.baseurl }}/img/hoffychat.png)
-
-To be continued...
